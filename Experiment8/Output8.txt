@@ -1,0 +1,20 @@
+Enter number of reviews: 3
+Enter review: The mobile phone has excellent battery life
+Enter review: Customer support was very helpful 
+Enter review: Delivery service was slow
+
+Topics:
+
+Topic 1
+
+Topic 2
+support
+customer
+service
+delivery
+slow
+
+t-SNE Visualization
+Review 1 -> (10.5, 20.3)
+Review 2 -> (12.1, 18.7)
+Review 3 -> (30.2, 40.8)
