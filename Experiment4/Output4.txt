@@ -1,0 +1,19 @@
+Enter number of documents: 3
+Enter document: Machine Learning improves healthcare diagnosis
+Enter document: Deep Learning is used in Artificial Intelligence
+Enter document: Climate change affects biodiversity
+
+Enter search query: Artificial Intelligence
+
+TF-IDF Similarity Scores:
+Document 1 : 0.0
+Document 2 : 0.551
+Document 3 : 0.0
+
+LSA Similarity Scores:
+Document 1 : 1.0
+Document 2 : 1.0
+Document 3 : 0.0
+
+Most Relevant Document:
+Machine Learning improves healthcare diagnosis

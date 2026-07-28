@@ -1,0 +1,26 @@
+[nltk_data] Downloading package wordnet to
+[nltk_data]     C:\Users\kirut\AppData\Roaming\nltk_data...
+[nltk_data]   Package wordnet is already up-to-date!
+[nltk_data] Downloading package omw-1.4 to
+[nltk_data]     C:\Users\kirut\AppData\Roaming\nltk_data...
+Enter number of headlines: 4
+Enter headline: stock market gains profit
+Enter headline: Investors celebrate rise in share prices
+Enter headline: Football team wins championships
+Enter headline: Cricket tournaments attracts audience
+
+Cosine Similarity Matrix:
+[[1. 0. 0. 0.]
+ [0. 1. 0. 0.]
+ [0. 0. 1. 0.]
+ [0. 0. 0. 1.]]
+
+Headline Clusters:
+stock market gains profit -> Cluster 0
+Investors celebrate rise in share prices -> Cluster 0
+Football team wins championships -> Cluster 0
+Cricket tournaments attracts audience -> Cluster 1
+
+Enter first word: cricket
+Enter second word: wins
+WordNet Similarity: 0.05263157894736842
