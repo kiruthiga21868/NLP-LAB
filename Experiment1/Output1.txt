@@ -1,0 +1,26 @@
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\kirut\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package punkt_tab to
+[nltk_data]     C:\Users\kirut\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt_tab is already up-to-date!
+[nltk_data] Downloading package wordnet to
+[nltk_data]     C:\Users\kirut\AppData\Roaming\nltk_data...
+[nltk_data]   Package wordnet is already up-to-date!
+Enter a sentence: Natural Language Processing is an exciting field.
+
+Original Text:
+Natural Language Processing is an exciting field.
+
+Tokens:
+['Natural', 'Language', 'Processing', 'is', 'an', 'exciting', 'field', '.']
+
+Stemmed Words:
+['natur', 'languag', 'process', 'is', 'an', 'excit', 'field', '.']
+
+Lemmatized Words:
+['Natural', 'Language', 'Processing', 'is', 'an', 'exciting', 'field', '.']
+
+Comparison:
+Stemming reduces words to root forms, which may not be meaningful.
+Lemmatization converts words to meaningful base forms.
