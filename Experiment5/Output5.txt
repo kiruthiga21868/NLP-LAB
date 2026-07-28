@@ -1,0 +1,22 @@
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\kirut\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package punkt_tab to
+[nltk_data]     C:\Users\kirut\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt_tab is already up-to-date!
+[nltk_data] Downloading package averaged_perceptron_tagger_eng to
+[nltk_data]     C:\Users\kirut\AppData\Roaming\nltk_data...
+[nltk_data]   Package averaged_perceptron_tagger_eng is already up-to-
+[nltk_data]       date!
+Enter legal text: John filed a case against ABC company in New York
+
+Detected Named Entities:
+John -> ENTITY
+ABC -> ENTITY
+New -> ENTITY
+York -> ENTITY
+
+Enter actual number of entities: 8
+
+Predicted Entities: 4
+NER Accuracy: 50.0 %
